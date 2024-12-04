@@ -1,0 +1,24 @@
+.loading{
+    display:none;
+    font-size:large;
+    color:blue;
+}
+
+.error-message{
+    display:none;
+    font-size:large;
+    color:red;
+}
+.sent-message{
+    display:none;
+    font-size:large;
+    color:blue;
+}
+
+/*      EXTRA CSS       */
+.locate-me{
+    text-align:center;
+    font-size:large;
+    font-weight:bold;
+    margin-top:50px;
+}
